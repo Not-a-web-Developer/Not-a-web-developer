@@ -8,7 +8,7 @@ I don't really contribute a lot, though that's because of incompetence rather th
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=not-a-web-developer)](https://github.com/anuraghazra/github-readme-stats)
 
-Apart from that, I guess check my blog out at [sourcehut](not-a-web-developer.srht.site) or on [github](not-a-web-developer.github.io) based on your personal preference (the content is ~~mostly~~ the same)
+Apart from that, I guess check my blog out at [sourcehut](https://not-a-web-developer.srht.site) or on [github](https://not-a-web-developer.github.io) based on your personal preference (the content is ~~mostly~~ the same)
  
 Contact me at newestideaz@gmail.com, you'll most probably receive a flurry of replies within 5-7 business days
 
